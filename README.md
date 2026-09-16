@@ -1,6 +1,6 @@
 # 🏎️ VoltCyte — Futuristic Luxury Hypercar Landing Page
 
-A high-performance, interactive landing page for a modern electric luxury hypercar concept built with **React**, **Tailwind CSS**, and **Framer Motion**.[https://luxury-sports-car-la-cb15.bolt.host](https://luxury-sports-car-la-cb15.bolt.host)
+A high-performance, interactive landing page for a modern electric luxury hypercar concept built with **React**, **Tailwind CSS**, and **Framer Motion**.[https://luxury-sports-car-la-cb15.bolt.host])https://luxury-sports-car-la-cbl5.bolt.host/#colors
 
 ![VoltCyte Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20Framer%20Motion-blue)
 
